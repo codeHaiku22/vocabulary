@@ -61,6 +61,7 @@
 **hubris** - (n) overbearing pride or presumption; arrogance  
 
 ## I
+**ignoble** - (adj) not noble; basic, common; plebian  
 **impugn** - (v) to verbally attack or question  
 **incorrigible** - (adj) incapable of being corrected or reformed; difficult of impossible to control or manage  
 **iniquity** - (n) a gross immorality or injustice; wickedness  
@@ -91,6 +92,7 @@
 
 ## P
 **pall** - (v) to lose strength of effectiveness; dwindle  
+**panoply** - (n) a striking arrangement; attire with accessories; an item that protects and covers  
 **parlance** - (n) a particular manner of speaking that is natural to native speakers of a language  
 **pedagogue** - (n) a school teacher; an educator  
 **pedant** - (n) one who ostentatiously exhibits academic knowledge or who pays undue attention to minor details or formal rules; a teacher  
@@ -110,6 +112,7 @@
 **relegate** - (v) to send into exile, banish; to assign  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
 **reverence** - (n) a feeling or act of showing respect  
+**rufous** - (adj) reddish, tawny  
 
 ## S
 **semiotics** - (n) study of signs and symbols  
@@ -121,6 +124,7 @@
 **surreptitious** - (adj) obtained, done, or made by clandestine or stealthy means; secret, covert  
 
 ## T
+**tabard** - (n) a cape or capelike garment  
 **tumult** - (n) noise; commotion; agitation  
 
 ## U
@@ -134,6 +138,7 @@
 **vindictive** - (adj) disposed to seek revenge; revengeful  
 **visceral** - (adj) relating to, situated in, or affecting the viscera; being or arising from impulse or sudden emotion rather than thought or deliberation  
 **vitriol** - (n) bitterly abusive feeling or expression  
+**voluble** - (adj) fluent; rotating; twisting  
 
 ## W
 **warren** - (n) an area where rabbits live in burrows; an enclosure for small game animals  
