@@ -37,7 +37,7 @@ This is a growing list of words I have come across for which the meaning/definit
 ## D
 **daft** - (adj) silly, foolish; mad, insane  
 **deluge** - (n) overwhelming; a great flood; a heavy downpour  
-**demure** - (adj) modesto and reserved in manner and behavior  
+**demure** - (adj) modest and reserved in manner and behavior  
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
 **diurnal** - (adj) occurring daily; occurring during daylight  
