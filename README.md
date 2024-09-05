@@ -120,12 +120,12 @@ This is a growing list of words I have come across for which the meaning/definit
 **simian** - (adj) relating to, characteristic of, or resembling a monkey or an ape  
 **skint** - (adj) lacking funds; poor, penniless; broke  
 **specious** - (adj) having an appearance of truch, but fundamentally false; deceptively appealing  
-**subvert** - (v) to overthrow or destroy; to undermine. overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
-**sullen** - (adj) gloomy or somer in tone, color, or portent  
+**subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
+**sullen** - (adj) gloomy or somber in tone, color, or portent  
 **surreptitious** - (adj) obtained, done, or made by clandestine or stealthy means; secret, covert  
 
 ## T
-**tabard** - (n) a cape or capelike garment  
+**tabard** - (n) a cape or cape-like garment  
 **tumult** - (n) noise; commotion; agitation  
 
 ## U
