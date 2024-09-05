@@ -1,4 +1,5 @@
 # Vocabulary
+This is a growing list of words I have come across for which the meaning/definition was unknown.
 
 ## A
 **abject** - (adj) extremely contemptible or degrading; wretched  
