@@ -1,5 +1,10 @@
 # Vocabulary
-This is a growing list of words I have come across for which the meaning/definition was unknown.
+This is a growing list of words I have come across for which the meaning/definition was unknown.  
+
+## Current Book 
+New words are often added as they are encoutered when reading books.  The book currently being read is below.
+
+"The Left Hand of Darkness" by Ursula K. Le Guin
 
 ## A
 **abject** - (adj) extremely contemptible or degrading; wretched  
