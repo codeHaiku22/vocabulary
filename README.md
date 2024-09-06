@@ -136,7 +136,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **semiotics** - (n) study of signs and symbols  
 **sheif** - (n) collection of items (grain, stalks) bundled together; archer's quiver  
 **simian** - (adj) relating to, characteristic of, or resembling a monkey or an ape  
-**skein** - (n) length of thread or yard wound in a coil; complex tangle; flock of geese or other similiar birds in flight  
+**skein** - (n) length of thread or yard wound in a coil; complex tangle; flock of geese or other similar birds in flight  
 **skint** - (adj) lacking funds; poor, penniless; broke  
 **specious** - (adj) having an appearance of truch, but fundamentally false; deceptively appealing  
 **subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
