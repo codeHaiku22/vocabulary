@@ -29,6 +29,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **canonical** - (adj) conforming to a general rule or acceptable procedure  
 **capitulate** - (v) to surrender under specific conditions; acquiesce  
 **castigate** - (v) to punish or rebuke severely; to emend; to correct  
+**catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
 **catharsis** - (n) purification or purgation of emotions primarily through art  
 **cathartic** - (adj) inducing catharsis; purgative  
 **celerity** - (n) rapidity of motion or action  
@@ -38,23 +39,28 @@ New words are often added as they are encoutered when reading books.  The book c
 **confound** - (v) to cause to become confused or perplexed; to fail to distinguish or mix up; to make something worse  
 **convolution** - (n) a shape or form that is folded in curved or tortuous windings; one of the irregular ridges on the surface of the brain and especially of cerebrum of higher mammals; a complication of intricacy of form, design, or structure  
 **coquetry** - (n) dalliance; flirtation  
+**croon** - (v) hum, sing; roar, below  
 
 ## D
 **daft** - (adj) silly, foolish; mad, insane  
 **deluge** - (n) overwhelming; a great flood; a heavy downpour  
 **demure** - (adj) modest and reserved in manner and behavior  
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
+**depilate** - (v) to remove hair  
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
 **diurnal** - (adj) occurring daily; occurring during daylight  
+**dolmen** - (n) stone monument from the Neolithic period used for tombs, consisting of upright stones and a lateral capstone  
 **drivel** - (v) to slobber or drool; to talk stupidly or childishly 
 
 ## E
 **ephemeral** - (adj) lasting for markedly brief time  
 **evince** - (v) to show or demonstrate clearly; manifest  
 **evocative** - (adj) tending or having the power to evoke (bring to mind)  
-**exasperate** - (v) to cause irritation or annoyance to; to excite the anger of; to make more grievous
+**exasperate** - (v) to cause irritation or annoyance to; to excite the anger of; to make more grievous  
+**extempore** - (adj) composed with little or no preparation; impromptu  
 
 ## F
+**fecund** - (adj) fertile; capable of producing offspring or fruit  
 **finitude** - (n) the quality of being finite  
 **fulsome** - (adj) excessively flattering; disgusting; abundant  
 
@@ -63,15 +69,19 @@ New words are often added as they are encoutered when reading books.  The book c
 **gumption** - (n) boldness, initiative or aggressiveness  
 
 ## H
+**hearth** - (n) fireplace; home; brick, stone, or cement floor of a fireplace  
 **hegemony** - (n) the predominance of one state of group over others  
 **hubris** - (n) overbearing pride or presumption; arrogance  
 
 ## I
 **ignoble** - (adj) not noble; basic, common; plebian  
+**impertinent** (adj) rude, disrespectful; impudent, insolent; irrelevant  
+**impudent** (adj) rude, disrespectful; impertinent, insolent  
 **impugn** - (v) to verbally attack or question  
 **incorrigible** - (adj) incapable of being corrected or reformed; difficult of impossible to control or manage  
 **iniquity** - (n) a gross immorality or injustice; wickedness  
 **insipid** - (adj) dull, lacking flavor; tasteless; vapid  
+**insolent** - (adj) rude, disrespectful; impertinent, impudent  
 **intractable** - (adj) difficult to manage, deal with, or change to an acceptable condition; not easily relieved or cured; not easily manipulated or shaped  
 **irreverent** - (adj) critical of what is generally accepted or respected; satirical; disrespectful  
 
@@ -82,6 +92,7 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## L
 **levity** - (n) humor, merriment, or a lack of seriousness, especially when inappropriate  
+**limpid** - (adj) clear, free from haze or clouds; intelligible  
 
 ## M
 **misandry** - (n) hatred or mistrust of men  
@@ -121,8 +132,11 @@ New words are often added as they are encoutered when reading books.  The book c
 **rufous** - (adj) reddish, tawny  
 
 ## S
+**saunter** - (v) walk at a leisure pace; stroll; loiter  
 **semiotics** - (n) study of signs and symbols  
+**sheif** - (n) collection of items (grain, stalks) bundled together; archer's quiver  
 **simian** - (adj) relating to, characteristic of, or resembling a monkey or an ape  
+**skein** - (n) length of thread or yard wound in a coil; complex tangle; flock of geese or other similiar birds in flight  
 **skint** - (adj) lacking funds; poor, penniless; broke  
 **specious** - (adj) having an appearance of truch, but fundamentally false; deceptively appealing  
 **subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
