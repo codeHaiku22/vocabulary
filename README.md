@@ -16,12 +16,14 @@ New words are often added as they are encoutered when reading books.  The book c
 **alms** - (n) something given freely to relieve the poor  
 **ascribe** - (v) to regard as arising from a specified cause or source; attribute, impute, or refer, as to a cause  
 **asunder** - (adv) into separate parts or pieces; apart from each other in position or in direction  
+**athwart** - (prp) from one side to another, across; contrary   
 **augury** - (n) foretelling; divination  
 **auspice** - (n) protection or support; a sign indicative of future prospects; an omen  
 **averse** - (n) having a feeling of opposition, distaste, or aversion; strongly disinclined  
 
 ## B
 **bastion** - (n) a projecting part of a fortification; a well-fortified position; one that upholds or defends something  
+**bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
@@ -50,6 +52,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
 **diurnal** - (adj) occurring daily; occurring during daylight  
 **dolmen** - (n) stone monument from the Neolithic period used for tombs, consisting of upright stones and a lateral capstone  
+**dour** - (adj) obstinatel; stern, harsh; unyielding  
 **drivel** - (v) to slobber or drool; to talk stupidly or childishly 
 
 ## E
@@ -65,6 +68,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **fulsome** - (adj) excessively flattering; disgusting; abundant  
 
 ## G
+**goad** - (n) a prodding stick; stimulus  
 **gossamer** - (n) a fine film of cobwebs often seen floating in the air or caught on bushes; something that is light, delicate or sheer  
 **gumption** - (n) boldness, initiative or aggressiveness  
 
@@ -97,6 +101,7 @@ New words are often added as they are encoutered when reading books.  The book c
 ## M
 **misandry** - (n) hatred or mistrust of men  
 **misogyny** - (n) hatred or mistrust of women  
+**mooring** - (n) apparatus such as anchors and chains for securing a vessel  
 **morose** - (adj) sullenly melancholy, gloomy; lascivious, brooding over evil thoughts  
 
 ## N
@@ -127,6 +132,7 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## R
 **relegate** - (v) to send into exile, banish; to assign  
+**requiem** - (n) mass for the deceased; musical composition or service for the deceased  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
 **reverence** - (n) a feeling or act of showing respect  
 **rufous** - (adj) reddish, tawny  
