@@ -12,6 +12,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **acquiesce** - (v) to consent of comply passively or without protest; to assent   
 **adroit** - (adj) quick and skillful; dexterous; deft  
 **adverse** - (adj) acting or serving to oppose; antagonistic; contrary to one's interests or welfare; harmful  
+**adulation** - (n) excessive flattery, praise  
 **alacrity** - (n) cheerful willingness; eagerness; liveliness  
 **alms** - (n) something given freely to relieve the poor  
 **ascribe** - (v) to regard as arising from a specified cause or source; attribute, impute, or refer, as to a cause  
@@ -25,6 +26,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **bastion** - (n) a projecting part of a fortification; a well-fortified position; one that upholds or defends something  
 **bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
+**brusque** - (adj) abrupt in manner; curt  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
 ## C
@@ -36,8 +38,10 @@ New words are often added as they are encoutered when reading books.  The book c
 **cathartic** - (adj) inducing catharsis; purgative  
 **celerity** - (n) rapidity of motion or action  
 **cerebral** - (adj) relating to the brain or the intellect  
+**choler** - (n) irritability, anger  
 **clandestine** - (adj) kept or done in secret, often to conceal an illicit of improper purpose  
 **compeer** - (n) a person of equal status or rank; a peer  
+**conflagaration** - (n) a large fire that is broad and affect many objects  
 **confound** - (v) to cause to become confused or perplexed; to fail to distinguish or mix up; to make something worse  
 **convolution** - (n) a shape or form that is folded in curved or tortuous windings; one of the irregular ridges on the surface of the brain and especially of cerebrum of higher mammals; a complication of intricacy of form, design, or structure  
 **coquetry** - (n) dalliance; flirtation  
@@ -60,6 +64,8 @@ New words are often added as they are encoutered when reading books.  The book c
 **evince** - (v) to show or demonstrate clearly; manifest  
 **evocative** - (adj) tending or having the power to evoke (bring to mind)  
 **exasperate** - (v) to cause irritation or annoyance to; to excite the anger of; to make more grievous  
+**exculpate** - (t) exonerate; to clear of guilt or blame  
+**execrable** - (adj) bad, inferior; hateful  
 **extempore** - (adj) composed with little or no preparation; impromptu  
 
 ## F
@@ -83,6 +89,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **impudent** (adj) rude, disrespectful; impertinent, insolent  
 **impugn** - (v) to verbally attack or question  
 **incorrigible** - (adj) incapable of being corrected or reformed; difficult of impossible to control or manage  
+**inimical** - (adj) dangerous, harmful, adverse  
 **iniquity** - (n) a gross immorality or injustice; wickedness  
 **insipid** - (adj) dull, lacking flavor; tasteless; vapid  
 **insolent** - (adj) rude, disrespectful; impertinent, impudent  
@@ -127,6 +134,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **polymath** - (n) a person with extraordinary, broad, and comprehensive knowledge  
 **potentate** - (n) monarch, ruler  
 **precocious** - (adj) ripening or developing prematurely  
+**promulgate** - (v) to make known, annouce; advocate  
 
 ## Q
 
@@ -134,6 +142,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **relegate** - (v) to send into exile, banish; to assign  
 **requiem** - (n) mass for the deceased; musical composition or service for the deceased  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
+**reticence** - (n) the state of being quiet or not speaking; discretion; aviodance  
 **reverence** - (n) a feeling or act of showing respect  
 **rufous** - (adj) reddish, tawny  
 
@@ -151,6 +160,7 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## T
 **tabard** - (n) a cape or cape-like garment  
+**torpor** - (n) lethargy; inactivity; insensibility  
 **tumult** - (n) noise; commotion; agitation  
 
 ## U
@@ -164,6 +174,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **vindictive** - (adj) disposed to seek revenge; revengeful  
 **visceral** - (adj) relating to, situated in, or affecting the viscera; being or arising from impulse or sudden emotion rather than thought or deliberation  
 **vitriol** - (n) bitterly abusive feeling or expression  
+**vituperation** - (n) abuse; censure; blame; highly-critical language  
 **voluble** - (adj) fluent; rotating; twisting  
 
 ## W
