@@ -7,6 +7,7 @@ New words are often added as they are encoutered when reading books.  The book c
 "The Left Hand of Darkness" by Ursula K. Le Guin
 
 ## A
+**abdicate** - (v) to relinquish or renounce power  
 **abject** - (adj) extremely contemptible or degrading; wretched  
 **ableist** - (n) one who exhibits prejudice against the disabled  
 **acquiesce** - (v) to consent of comply passively or without protest; to assent   
@@ -26,6 +27,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **bastion** - (n) a projecting part of a fortification; a well-fortified position; one that upholds or defends something  
 **bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
+**blandishment** - (n) flattery via speech for the sake of persuasion or influence  
 **brusque** - (adj) abrupt in manner; curt  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
@@ -40,6 +42,8 @@ New words are often added as they are encoutered when reading books.  The book c
 **cerebral** - (adj) relating to the brain or the intellect  
 **choler** - (n) irritability, anger  
 **clandestine** - (adj) kept or done in secret, often to conceal an illicit of improper purpose  
+**clod** - (n) a person who is foolish  
+**comely** - (adj) pleasing to look at; handsome; attactive  
 **compeer** - (n) a person of equal status or rank; a peer  
 **conflagaration** - (n) a large fire that is broad and affect many objects  
 **confound** - (v) to cause to become confused or perplexed; to fail to distinguish or mix up; to make something worse  
@@ -53,6 +57,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **demure** - (adj) modest and reserved in manner and behavior  
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
 **depilate** - (v) to remove hair  
+**dicker** - (v) to bargain; (n) the act of bargainning  
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
 **diurnal** - (adj) occurring daily; occurring during daylight  
 **dolmen** - (n) stone monument from the Neolithic period used for tombs, consisting of upright stones and a lateral capstone  
@@ -94,6 +99,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **insipid** - (adj) dull, lacking flavor; tasteless; vapid  
 **insolent** - (adj) rude, disrespectful; impertinent, impudent  
 **intractable** - (adj) difficult to manage, deal with, or change to an acceptable condition; not easily relieved or cured; not easily manipulated or shaped  
+**involute** - (adj) complex; intricate  
 **irreverent** - (adj) critical of what is generally accepted or respected; satirical; disrespectful  
 
 ## J
@@ -116,7 +122,8 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## O
 **obdurate** - (adj) not changing in response to argument or other influence; obstinate  
-**obstinate** - (adj) stubbornly adhering to an attitude, opinion, or course of action; obdurate  
+**obstinate** - (adj) stubbornly adhering to an attitude, opinion, or course of action; obdurate 
+**obstreperous** - (adj) noisy; unruly; defiant; resistant  
 **ostentatious** - (adj) fond of or evincing ostentation; unduly conspicuous; boastful   
 
 ## P
@@ -135,6 +142,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **potentate** - (n) monarch, ruler  
 **precocious** - (adj) ripening or developing prematurely  
 **promulgate** - (v) to make known, annouce; advocate  
+**proselytize** - (v) to attempt to convert a person to another faith, doctrine, or idealogy  
 
 ## Q
 
@@ -164,6 +172,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **tumult** - (n) noise; commotion; agitation  
 
 ## U
+**umbrageous** - (adj) easily offended; shady, shaded  
 **unduly** - (adv) excessively; immoderately; in an undue manner; undeservedly; not warranted  
 
 ## V
