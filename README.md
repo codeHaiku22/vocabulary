@@ -122,7 +122,7 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## O
 **obdurate** - (adj) not changing in response to argument or other influence; obstinate  
-**obstinate** - (adj) stubbornly adhering to an attitude, opinion, or course of action; obdurate 
+**obstinate** - (adj) stubbornly adhering to an attitude, opinion, or course of action; obdurate  
 **obstreperous** - (adj) noisy; unruly; defiant; resistant  
 **ostentatious** - (adj) fond of or evincing ostentation; unduly conspicuous; boastful   
 
