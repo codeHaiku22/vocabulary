@@ -42,6 +42,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **cerebral** - (adj) relating to the brain or the intellect  
 **choler** - (n) irritability, anger  
 **clandestine** - (adj) kept or done in secret, often to conceal an illicit of improper purpose  
+**clinker** - (n) partially vitrified brick or a collection of bricks fused together; hard burnded brick  
 **clod** - (n) a person who is foolish  
 **comely** - (adj) pleasing to look at; handsome; attactive  
 **compeer** - (n) a person of equal status or rank; a peer  
@@ -65,6 +66,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **drivel** - (v) to slobber or drool; to talk stupidly or childishly 
 
 ## E
+**effluent** - (adj) flowing outward  
 **ephemeral** - (adj) lasting for markedly brief time  
 **evince** - (v) to show or demonstrate clearly; manifest  
 **evocative** - (adj) tending or having the power to evoke (bring to mind)  
@@ -75,8 +77,10 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## F
 **fecund** - (adj) fertile; capable of producing offspring or fruit  
+**fetid** - (adj) foul smelling; having an offensive odor  
 **finitude** - (n) the quality of being finite  
 **fulsome** - (adj) excessively flattering; disgusting; abundant  
+**furtive** - (adj) surreptitious; clandestine; stealthy; stolen or obtained by stealth  
 
 ## G
 **goad** - (n) a prodding stick; stimulus  
@@ -108,13 +112,16 @@ New words are often added as they are encoutered when reading books.  The book c
 ## K
 
 ## L
+**laconic** - (adj) using few words; concise; brusque  
 **levity** - (n) humor, merriment, or a lack of seriousness, especially when inappropriate  
 **limpid** - (adj) clear, free from haze or clouds; intelligible  
+**lour** - (n) Asiatic sardine; (v) to be gloomy or threatening; to frown or look sullen  
 
 ## M
 **misandry** - (n) hatred or mistrust of men  
 **misogyny** - (n) hatred or mistrust of women  
 **mooring** - (n) apparatus such as anchors and chains for securing a vessel  
+**moraine** - (n) a colletion of unconsolidated debris related to glaciers and ice sheets  
 **morose** - (adj) sullenly melancholy, gloomy; lascivious, brooding over evil thoughts  
 
 ## N
@@ -124,16 +131,20 @@ New words are often added as they are encoutered when reading books.  The book c
 **obdurate** - (adj) not changing in response to argument or other influence; obstinate  
 **obstinate** - (adj) stubbornly adhering to an attitude, opinion, or course of action; obdurate  
 **obstreperous** - (adj) noisy; unruly; defiant; resistant  
+**obviate** - (v) to prevent; to anticipate; to make unnecessary  
 **ostentatious** - (adj) fond of or evincing ostentation; unduly conspicuous; boastful   
+**oviparous** - (adj) producing eggs that are hatched outside of the body  
 
 ## P
 **pall** - (v) to lose strength of effectiveness; dwindle  
+**pallid** - (adj) having a pale complexion; dull  
 **panoply** - (n) a striking arrangement; attire with accessories; an item that protects and covers  
 **parlance** - (n) a particular manner of speaking that is natural to native speakers of a language  
 **pedagogue** - (n) a school teacher; an educator  
 **pedant** - (n) one who ostentatiously exhibits academic knowledge or who pays undue attention to minor details or formal rules; a teacher  
 **pedantic** - (adj) characterized by a narrow, often ostentatious concern for academic knowledge and formal rules  
 **pejorative** - (adj) disparaging; belittling  
+**perempt** - (v) to destroy or defeat  
 **perfidy** - (n) breack of faith; act of treachery; violation of allegiance  
 **pertinacious** - (adj) obstinate, obdurate  
 **phlegmatic** - (adj) having or related to phlegm; calm sluggish temperment, apathetic  
@@ -147,6 +158,8 @@ New words are often added as they are encoutered when reading books.  The book c
 ## Q
 
 ## R
+**rancor** - (n) deep resentment; hatred, spite; malice  
+**refectory** - (n) mess hall or dining hall especially within an institution  
 **relegate** - (v) to send into exile, banish; to assign  
 **requiem** - (n) mass for the deceased; musical composition or service for the deceased  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
@@ -156,15 +169,21 @@ New words are often added as they are encoutered when reading books.  The book c
 
 ## S
 **saunter** - (v) walk at a leisure pace; stroll; loiter  
+**scruple** - (n) an uneasy feeling that hinders action; unit of apothecary weight of about 1.3 grams; a small amount  
+**scrupulous** - (adj) painstaking, meticulous; having scruples, doubtful; hesitating to act for fear of offending  
 **semiotics** - (n) study of signs and symbols  
 **sheif** - (n) collection of items (grain, stalks) bundled together; archer's quiver  
 **simian** - (adj) relating to, characteristic of, or resembling a monkey or an ape  
 **skein** - (n) length of thread or yard wound in a coil; complex tangle; flock of geese or other similar birds in flight  
 **skint** - (adj) lacking funds; poor, penniless; broke  
+**slipshod** - (adj) careless or neglect, sloppy; wearing shoes with worn out heels  
+**slovenly** - (adj) untidy in appearance; slipshod, sloppy; being sloven  
 **specious** - (adj) having an appearance of truch, but fundamentally false; deceptively appealing  
+**stolid** - (adj) having little emotion or sensibility; dull, foolish  
 **subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
 **sullen** - (adj) gloomy or somber in tone, color, or portent  
 **surreptitious** - (adj) obtained, done, or made by clandestine or stealthy means; secret, covert  
+**sycophant** - (n) one who tries to gain advantage by flattery to the influential; informer  
 
 ## T
 **tabard** - (n) a cape or cape-like garment  
@@ -178,10 +197,12 @@ New words are often added as they are encoutered when reading books.  The book c
 ## V
 **vehement** - (n) characterized by forcefulness of expression of intensity of emotion or conviction; fervid; ardent; passionate  
 **venerable** - (adj) profoundly honored; revered  
+**vestige** - (n) visible trace or evidence of something that once existed; trace, sign, remain, artifact  
 **vilify** - (v) to attack the reputation of with strong or abusive criticism  
 **vindicate** - (v) to demonstrate or prove the value of; to clear of accusations or blame  
 **vindictive** - (adj) disposed to seek revenge; revengeful  
 **visceral** - (adj) relating to, situated in, or affecting the viscera; being or arising from impulse or sudden emotion rather than thought or deliberation  
+**vitrify** - (v) to make into glass or a glassy material  
 **vitriol** - (n) bitterly abusive feeling or expression  
 **vituperation** - (n) abuse; censure; blame; highly-critical language  
 **voluble** - (adj) fluent; rotating; twisting  
