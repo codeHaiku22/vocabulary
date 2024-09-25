@@ -17,6 +17,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **alacrity** - (n) cheerful willingness; eagerness; liveliness  
 **alms** - (n) something given freely to relieve the poor  
 **ascribe** - (v) to regard as arising from a specified cause or source; attribute, impute, or refer, as to a cause  
+**assauge** - (v) appease, quench; pacify, quiet  
 **asunder** - (adv) into separate parts or pieces; apart from each other in position or in direction  
 **athwart** - (prp) from one side to another, across; contrary   
 **augury** - (n) foretelling; divination  
@@ -28,6 +29,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
 **blandishment** - (n) flattery via speech for the sake of persuasion or influence  
+**blotto** - (adj) intoxicated, drunk  
 **brusque** - (adj) abrupt in manner; curt  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
@@ -50,6 +52,7 @@ New words are often added as they are encoutered when reading books.  The book c
 **confound** - (v) to cause to become confused or perplexed; to fail to distinguish or mix up; to make something worse  
 **convolution** - (n) a shape or form that is folded in curved or tortuous windings; one of the irregular ridges on the surface of the brain and especially of cerebrum of higher mammals; a complication of intricacy of form, design, or structure  
 **coquetry** - (n) dalliance; flirtation  
+**cornice** - (n) crown molding on a wall  
 **croon** - (v) hum, sing; roar, below  
 
 ## D
@@ -183,10 +186,12 @@ New words are often added as they are encoutered when reading books.  The book c
 **subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
 **sullen** - (adj) gloomy or somber in tone, color, or portent  
 **surreptitious** - (adj) obtained, done, or made by clandestine or stealthy means; secret, covert  
+**susurrous** - (adj) full of whispering or rustling sounds  
 **sycophant** - (n) one who tries to gain advantage by flattery to the influential; informer  
 
 ## T
 **tabard** - (n) a cape or cape-like garment  
+**taciturn** - (adj) habitually silent or untalkative; laconic; characterized by reserve or lack of expression  
 **torpor** - (n) lethargy; inactivity; insensibility  
 **tumult** - (n) noise; commotion; agitation  
 
