@@ -1,10 +1,19 @@
 # Vocabulary
-This is a growing list of words I have come across for which the meaning/definition was unknown.  
+This is a growing list of words I have come across for which the meaning/definition was unknown.  New words are often added as they are encoutered when reading books.  
 
-## Current Book 
-New words are often added as they are encoutered when reading books.  The book currently being read is below.
+#### Current Book 
+The book currently being read is below.
 
-"The Left Hand of Darkness" by Ursula K. Le Guin
+Title | Author | Start Date
+--- | --- | --:
+The Left Hand of Darkness | Ursula K. Le Guin | 9/5/2024
+
+#### Past Books
+The books that have been read are below.
+
+Title | Author | Start Date | End Date
+--- | --- | --: | ---:
+The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 
 ## A
 **abdicate** - (v) to relinquish or renounce power  
