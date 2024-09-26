@@ -2,14 +2,12 @@
 This is a growing list of words I have come across for which the meaning/definition was unknown.  New words are often added as they are encoutered when reading books.  
 
 #### Current Book 
-The book currently being read is below.
 
 Title | Author | Start Date
 --- | --- | --:
 The Left Hand of Darkness | Ursula K. Le Guin | 9/5/2024
 
 #### Past Books
-The books that have been read are below.
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
