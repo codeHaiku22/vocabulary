@@ -1,5 +1,5 @@
 # Vocabulary
-This is a growing list of words I have come across for which the meaning/definition was unknown.  New words are often added as they are encoutered when reading books.  
+This is a growing list of words I have come across while reading books for which the meaning/definition was unknown, until now.
 
 #### Current Book 
 
