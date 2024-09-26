@@ -33,6 +33,7 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 
 ## B
 **bastion** - (n) a projecting part of a fortification; a well-fortified position; one that upholds or defends something  
+**benighted** - (adj) physically or morally, intellectually cast into a state of night or darkness  
 **bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
 **blandishment** - (n) flattery via speech for the sake of persuasion or influence  
@@ -66,6 +67,8 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **daft** - (adj) silly, foolish; mad, insane  
 **deluge** - (n) overwhelming; a great flood; a heavy downpour  
 **demure** - (adj) modest and reserved in manner and behavior  
+**demur** - (v) to oppose; delay  
+**demurrer** - (n) one that demurs; objector  
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
 **depilate** - (v) to remove hair  
 **dicker** - (v) to bargain; (n) the act of bargainning  
@@ -125,6 +128,7 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **laconic** - (adj) using few words; concise; brusque  
 **levity** - (n) humor, merriment, or a lack of seriousness, especially when inappropriate  
 **limpid** - (adj) clear, free from haze or clouds; intelligible  
+**locution** - (n) a phrase or saying said by a particular person or people; style of speaking  
 **lour** - (n) Asiatic sardine; (v) to be gloomy or threatening; to frown or look sullen  
 
 ## M
