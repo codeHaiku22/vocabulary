@@ -5,14 +5,14 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
-The Wisdom of Insecurity | Alan Watts | ?/?/2024
+[The Wisdom of Insecurity](https://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity?ref=nav_sb_ss_1_20) | Alan Watts | ?/?/2024
 
 #### Past Books
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
-The Left Hand of Darkness | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
-The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
+[The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness?from_search=true&from_srp=true&qid=G6Adlckfx3&rank=1) | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
+[The Perfect Son](https://www.goodreads.com/book/show/52616342-the-perfect-son?from_search=true&from_srp=true&qid=L8uuRxV0Jr&rank=1) | Freida McFadden | 8/15/2024 | 8/23/2024
 
 ## A
 **abdicate** - (v) to relinquish or renounce power  
