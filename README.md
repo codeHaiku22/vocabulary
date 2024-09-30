@@ -39,7 +39,7 @@ Title | Author | Start Date | End Date
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
 **blandishment** - (n) flattery via speech for the sake of persuasion or influence  
 **blotto** - (adj) intoxicated, drunk  
-**brigand** - (n) a robber or bandir; lightly-armed soldier  
+**brigand** - (n) a robber or bandit; lightly-armed soldier  
 **brusque** - (adj) abrupt in manner; curt  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
