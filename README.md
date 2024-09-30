@@ -1,6 +1,8 @@
 # Vocabulary
 This is a growing list of words I have come across while reading books for which the meaning/definition was unknown, until now.
 
+> ***Note:*** If you notice errors or misspelling, please feel free to log an issue or perform a pull request.
+
 #### Current Book 
 
 Title | Author | Start Date
