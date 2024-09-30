@@ -5,12 +5,13 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
-The Left Hand of Darkness | Ursula K. Le Guin | 9/5/2024
+The Wisdom of Insecurity | Alan Watts | ?/?/2024
 
 #### Past Books
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
+The Left Hand of Darkness | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
 The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 
 ## A
@@ -38,12 +39,14 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
 **blandishment** - (n) flattery via speech for the sake of persuasion or influence  
 **blotto** - (adj) intoxicated, drunk  
+**brigand** - (n) a robber or bandir; lightly-armed soldier  
 **brusque** - (adj) abrupt in manner; curt  
 **bulwark** - (n) a solid wall-like structure raised for defense; a strong support or protection  
 
 ## C
 **canonical** - (adj) conforming to a general rule or acceptable procedure  
 **capitulate** - (v) to surrender under specific conditions; acquiesce  
+**caromed** - (n) a collision and then a reboun; a "combo" shot in billiards    
 **castigate** - (v) to punish or rebuke severely; to emend; to correct  
 **catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
 **catharsis** - (n) purification or purgation of emotions primarily through art  
@@ -96,6 +99,7 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **furtive** - (adj) surreptitious; clandestine; stealthy; stolen or obtained by stealth  
 
 ## G
+**gild** - (v) to give money to; to gold-plate; to make look more appealing  
 **goad** - (n) a prodding stick; stimulus  
 **gossamer** - (n) a fine film of cobwebs often seen floating in the air or caught on bushes; something that is light, delicate or sheer  
 **gumption** - (n) boldness, initiative or aggressiveness  
@@ -106,6 +110,7 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **hubris** - (n) overbearing pride or presumption; arrogance  
 
 ## I
+**idyllic** - (adj) tranquil; carefree; scenic, picturesque  
 **ignoble** - (adj) not noble; basic, common; plebian  
 **impertinent** (adj) rude, disrespectful; impudent, insolent; irrelevant  
 **impudent** (adj) rude, disrespectful; impertinent, insolent  
@@ -165,11 +170,13 @@ The Perfect Son | Freida McFadden | 8/15/2024 | 8/23/2024
 **placate** - (n) to appease; to allay the anger of, especially by making concessions; to pacify  
 **polymath** - (n) a person with extraordinary, broad, and comprehensive knowledge  
 **potentate** - (n) monarch, ruler  
+**precipitous** - (adj) haveing or resembling precipices, steep; rapid, hasty or abrupt  
 **precocious** - (adj) ripening or developing prematurely  
 **promulgate** - (v) to make known, annouce; advocate  
 **proselytize** - (v) to attempt to convert a person to another faith, doctrine, or idealogy  
 
 ## Q
+**querulous** - (adj) apt to complaining, grumbling; quarrelsome  
 
 ## R
 **rancor** - (n) deep resentment; hatred, spite; malice  
