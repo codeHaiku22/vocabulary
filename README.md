@@ -184,6 +184,7 @@ Title | Author | Start Date | End Date
 **rancor** - (n) deep resentment; hatred, spite; malice  
 **refectory** - (n) mess hall or dining hall especially within an institution  
 **relegate** - (v) to send into exile, banish; to assign  
+**reprove** - (v) to express disapproval, admonish; to convince  
 **requiem** - (n) mass for the deceased; musical composition or service for the deceased  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
 **reticence** - (n) the state of being quiet or not speaking; discretion; aviodance  
