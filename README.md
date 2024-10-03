@@ -32,6 +32,7 @@ Title | Author | Start Date | End Date
 **athwart** - (prp) from one side to another, across; contrary   
 **augury** - (n) foretelling; divination  
 **auspice** - (n) protection or support; a sign indicative of future prospects; an omen  
+**avarice** - (n) excessive desire for wealth; greed  
 **averse** - (n) having a feeling of opposition, distaste, or aversion; strongly disinclined  
 
 ## B
