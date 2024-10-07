@@ -7,12 +7,13 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
-[The Wisdom of Insecurity](https://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity?ref=nav_sb_ss_1_20) | Alan Watts | ?/?/2024
+[Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance?from_search=true&from_srp=true&qid=AkJ68GVAqN&rank=1) |Robert M. Pirsig | 10/7/2024
 
 #### Past Books
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
+[The Wisdom of Insecurity](https://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity?ref=nav_sb_ss_1_20) | Alan Watts | ?/?/2024 | 10/5/2024
 [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness?from_search=true&from_srp=true&qid=G6Adlckfx3&rank=1) | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
 [The Perfect Son](https://www.goodreads.com/book/show/52616342-the-perfect-son?from_search=true&from_srp=true&qid=L8uuRxV0Jr&rank=1) | Freida McFadden | 8/15/2024 | 8/23/2024
 
@@ -64,6 +65,7 @@ Title | Author | Start Date | End Date
 **compeer** - (n) a person of equal status or rank; a peer  
 **conflagaration** - (n) a large fire that is broad and affect many objects  
 **confound** - (v) to cause to become confused or perplexed; to fail to distinguish or mix up; to make something worse  
+**contrite** - (adj) feeling regret for wrongdoing, penitent; bruised, broken  
 **convolution** - (n) a shape or form that is folded in curved or tortuous windings; one of the irregular ridges on the surface of the brain and especially of cerebrum of higher mammals; a complication of intricacy of form, design, or structure  
 **coquetry** - (n) dalliance; flirtation  
 **cornice** - (n) crown molding on a wall  
@@ -85,6 +87,7 @@ Title | Author | Start Date | End Date
 **drivel** - (v) to slobber or drool; to talk stupidly or childishly 
 
 ## E
+**efface** - (v) to erase; to make indistinct; to conduct oneself in an inconspicuous manner  
 **effluent** - (adj) flowing outward  
 **ephemeral** - (adj) lasting for markedly brief time  
 **evince** - (v) to show or demonstrate clearly; manifest  
@@ -95,6 +98,7 @@ Title | Author | Start Date | End Date
 **extempore** - (adj) composed with little or no preparation; impromptu  
 
 ## F
+**fatuity** - stupid, foolish; weak  
 **fecund** - (adj) fertile; capable of producing offspring or fruit  
 **fetid** - (adj) foul smelling; having an offensive odor  
 **finitude** - (n) the quality of being finite  
@@ -108,6 +112,7 @@ Title | Author | Start Date | End Date
 **gumption** - (n) boldness, initiative or aggressiveness  
 
 ## H
+**harangue** - (n) a long, pompous speech, tirade; rant  
 **hearth** - (n) fireplace; home; brick, stone, or cement floor of a fireplace  
 **hegemony** - (n) the predominance of one state of group over others  
 **hubris** - (n) overbearing pride or presumption; arrogance  
@@ -140,6 +145,7 @@ Title | Author | Start Date | End Date
 **lour** - (n) Asiatic sardine; (v) to be gloomy or threatening; to frown or look sullen  
 
 ## M
+**miasma** - (n) a noxious atmosphere or influence  
 **misandry** - (n) hatred or mistrust of men  
 **misogyny** - (n) hatred or mistrust of women  
 **mooring** - (n) apparatus such as anchors and chains for securing a vessel  
