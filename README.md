@@ -98,7 +98,7 @@ Title | Author | Start Date | End Date
 **extempore** - (adj) composed with little or no preparation; impromptu  
 
 ## F
-**fatuity** - stupid, foolish; weak  
+**fatuity** - (n) something that is stupid, foolish; weakness of mind    
 **fecund** - (adj) fertile; capable of producing offspring or fruit  
 **fetid** - (adj) foul smelling; having an offensive odor  
 **finitude** - (n) the quality of being finite  
