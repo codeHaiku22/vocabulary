@@ -80,6 +80,7 @@ Title | Author | Start Date | End Date
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
 **depilate** - (v) to remove hair  
 **dicker** - (v) to bargain; (n) the act of bargainning  
+**dissemble** - (v) to disguise; conceal  
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
 **diurnal** - (adj) occurring daily; occurring during daylight  
 **dolmen** - (n) stone monument from the Neolithic period used for tombs, consisting of upright stones and a lateral capstone  
@@ -209,7 +210,8 @@ Title | Author | Start Date | End Date
 **skint** - (adj) lacking funds; poor, penniless; broke  
 **slipshod** - (adj) careless or neglect, sloppy; wearing shoes with worn out heels  
 **slovenly** - (adj) untidy in appearance; slipshod, sloppy; being sloven  
-**specious** - (adj) having an appearance of truch, but fundamentally false; deceptively appealing  
+**specious** - (adj) having an appearance of truth, but fundamentally false; deceptively appealing  
+**squall** - (n) a sudden violent windstorm; brief commotion; loud cry  
 **stolid** - (adj) having little emotion or sensibility; dull, foolish  
 **subvert** - (v) to overthrow or destroy; to undermine, overturn, or render ineffective; to cause to serve a purpose other than the original or established one  
 **sullen** - (adj) gloomy or somber in tone, color, or portent  
