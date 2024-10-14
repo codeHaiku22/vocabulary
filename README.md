@@ -51,6 +51,7 @@ Title | Author | Start Date | End Date
 **canonical** - (adj) conforming to a general rule or acceptable procedure  
 **capitulate** - (v) to surrender under specific conditions; acquiesce  
 **caromed** - (n) a collision and then a reboun; a "combo" shot in billiards    
+**carrion** - (n) dead or decaying animal or flesh; worthless person  
 **castigate** - (v) to punish or rebuke severely; to emend; to correct  
 **catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
 **catharsis** - (n) purification or purgation of emotions primarily through art  
@@ -73,6 +74,7 @@ Title | Author | Start Date | End Date
 
 ## D
 **daft** - (adj) silly, foolish; mad, insane  
+**dawdle** - (v) to take more time than needed; idle    
 **deluge** - (n) overwhelming; a great flood; a heavy downpour  
 **demure** - (adj) modest and reserved in manner and behavior  
 **demur** - (v) to oppose; delay  
@@ -129,6 +131,8 @@ Title | Author | Start Date | End Date
 **iniquity** - (n) a gross immorality or injustice; wickedness  
 **insipid** - (adj) dull, lacking flavor; tasteless; vapid  
 **insolent** - (adj) rude, disrespectful; impertinent, impudent  
+**interminable** - (adj) existing without interruption or without end  
+**intimation** - (n) declaration or announcement; a hint or a suggestion  
 **intractable** - (adj) difficult to manage, deal with, or change to an acceptable condition; not easily relieved or cured; not easily manipulated or shaped  
 **involute** - (adj) complex; intricate  
 **irreverent** - (adj) critical of what is generally accepted or respected; satirical; disrespectful  
@@ -166,6 +170,7 @@ Title | Author | Start Date | End Date
 
 ## P
 **pall** - (v) to lose strength of effectiveness; dwindle  
+**pallor** - (n) palness, pallidity  
 **pallid** - (adj) having a pale complexion; dull  
 **panoply** - (n) a striking arrangement; attire with accessories; an item that protects and covers  
 **parlance** - (n) a particular manner of speaking that is natural to native speakers of a language  
@@ -192,6 +197,7 @@ Title | Author | Start Date | End Date
 **rancor** - (n) deep resentment; hatred, spite; malice  
 **refectory** - (n) mess hall or dining hall especially within an institution  
 **relegate** - (v) to send into exile, banish; to assign  
+**reproach** - (v) admonish, to express disapproval; (n) an expression of blame or disapproval, rebuke  
 **reprove** - (v) to express disapproval, admonish; to convince  
 **requiem** - (n) mass for the deceased; musical composition or service for the deceased  
 **respite** - (n) a period of temporary delay; an interval of rest or relief  
@@ -236,6 +242,7 @@ Title | Author | Start Date | End Date
 **vilify** - (v) to attack the reputation of with strong or abusive criticism  
 **vindicate** - (v) to demonstrate or prove the value of; to clear of accusations or blame  
 **vindictive** - (adj) disposed to seek revenge; revengeful  
+**visage** - (n) coutnenance, face; facial expression  
 **visceral** - (adj) relating to, situated in, or affecting the viscera; being or arising from impulse or sudden emotion rather than thought or deliberation  
 **vitrify** - (v) to make into glass or a glassy material  
 **vitriol** - (n) bitterly abusive feeling or expression  
