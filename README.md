@@ -126,6 +126,7 @@ Title | Author | Start Date | End Date
 **impertinent** (adj) rude, disrespectful; impudent, insolent; irrelevant  
 **impudent** (adj) rude, disrespectful; impertinent, insolent  
 **impugn** - (v) to verbally attack or question  
+**inane** - (adj) lacking sense; empty, pointless, useless  
 **incorrigible** - (adj) incapable of being corrected or reformed; difficult of impossible to control or manage  
 **inimical** - (adj) dangerous, harmful, adverse  
 **iniquity** - (n) a gross immorality or injustice; wickedness  
