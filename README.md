@@ -135,6 +135,7 @@ Title | Author | Start Date | End Date
 **interminable** - (adj) existing without interruption or without end  
 **intimation** - (n) declaration or announcement; a hint or a suggestion  
 **intractable** - (adj) difficult to manage, deal with, or change to an acceptable condition; not easily relieved or cured; not easily manipulated or shaped  
+**inviolable** - (adj) secure from violation; invincible; insusceptible to harm; holy, sacred  
 **involute** - (adj) complex; intricate  
 **irreverent** - (adj) critical of what is generally accepted or respected; satirical; disrespectful  
 
@@ -217,6 +218,7 @@ Title | Author | Start Date | End Date
 **skint** - (adj) lacking funds; poor, penniless; broke  
 **slipshod** - (adj) careless or neglect, sloppy; wearing shoes with worn out heels  
 **slovenly** - (adj) untidy in appearance; slipshod, sloppy; being sloven  
+**sordid** - (adj) morally degraded; filthy; wretched  
 **specious** - (adj) having an appearance of truth, but fundamentally false; deceptively appealing  
 **squall** - (n) a sudden violent windstorm; brief commotion; loud cry  
 **stolid** - (adj) having little emotion or sensibility; dull, foolish  
@@ -230,6 +232,7 @@ Title | Author | Start Date | End Date
 **tabard** - (n) a cape or cape-like garment  
 **taciturn** - (adj) habitually silent or untalkative; laconic; characterized by reserve or lack of expression  
 **torpor** - (n) lethargy; inactivity; insensibility  
+**torrid** - (adj) intensely hot; scorched; passionate, ardent  
 **tumult** - (n) noise; commotion; agitation  
 
 ## U
