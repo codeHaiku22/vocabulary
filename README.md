@@ -161,6 +161,7 @@ Title | Author | Start Date | End Date
 
 ## N
 **neophyte** - (n) a recent convert to a belief; a beginner or novice; a newly ordained priest  
+**nihilism** - (n) a belief that nothing actually exists or existence has no meaning; cynicism leading to a lack of beliefs or values; violent political beliefs  
 
 ## O
 **obdurate** - (adj) not changing in response to argument or other influence; obstinate  
