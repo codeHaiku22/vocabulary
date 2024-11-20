@@ -41,6 +41,7 @@ Title | Author | Start Date | End Date
 **benighted** - (adj) physically or morally, intellectually cast into a state of night or darkness  
 **bereft** - (adj) deprived; lacking; bereaved  
 **bespoke** - (adj) custom-made, usually referring to tailored clothes  
+**blithe** - (adj) carefree; merry  
 **blandishment** - (n) flattery via speech for the sake of persuasion or influence  
 **blotto** - (adj) intoxicated, drunk  
 **brigand** - (n) a robber or bandit; lightly-armed soldier  
