@@ -82,6 +82,7 @@ Title | Author | Start Date | End Date
 **demurrer** - (n) one that demurs; objector  
 **denizen** - (n) inhabitant; a person admitted to residence in a foreign country; one that frequents a place  
 **depilate** - (v) to remove hair  
+**dialectic** - (n) the practice of arriving to a truth or certainty via logical arguments  
 **dicker** - (v) to bargain; (n) the act of bargainning  
 **dissemble** - (v) to disguise; conceal  
 **dissonance** - (n) a harsh, disagreeable combination of sounds; discord; lack of agreement, consistency, or harmony; conflict  
@@ -116,6 +117,7 @@ Title | Author | Start Date | End Date
 **gumption** - (n) boldness, initiative or aggressiveness  
 
 ## H
+**halation** - (n) a blur, glow, or spreading of light around bright areas on a photograph; a glow around a bright object on a television screen  
 **harangue** - (n) a long, pompous speech, tirade; rant  
 **hearth** - (n) fireplace; home; brick, stone, or cement floor of a fireplace  
 **hegemony** - (n) the predominance of one state of group over others  
@@ -187,6 +189,7 @@ Title | Author | Start Date | End Date
 **pertinacious** - (adj) obstinate, obdurate  
 **phlegmatic** - (adj) having or related to phlegm; calm sluggish temperment, apathetic  
 **placate** - (n) to appease; to allay the anger of, especially by making concessions; to pacify  
+**plaintive** - (adj) expressing sorrow, remorse; lamenting, complaining  
 **polymath** - (n) a person with extraordinary, broad, and comprehensive knowledge  
 **potentate** - (n) monarch, ruler  
 **precipitous** - (adj) haveing or resembling precipices, steep; rapid, hasty or abrupt  
