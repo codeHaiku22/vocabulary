@@ -7,12 +7,13 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
-[Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance?from_search=true&from_srp=true&qid=AkJ68GVAqN&rank=1) |Robert M. Pirsig | 10/7/2024
+[The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) | Paul Coelho | 5/5/2025
 
 #### Past Books
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
+[Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance?from_search=true&from_srp=true&qid=AkJ68GVAqN&rank=1) |Robert M. Pirsig | 10/7/2024 | 5/5/2025
 [The Wisdom of Insecurity](https://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity?ref=nav_sb_ss_1_20) | Alan Watts | ?/?/2024 | 10/5/2024
 [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness?from_search=true&from_srp=true&qid=G6Adlckfx3&rank=1) | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
 [The Perfect Son](https://www.goodreads.com/book/show/52616342-the-perfect-son?from_search=true&from_srp=true&qid=L8uuRxV0Jr&rank=1) | Freida McFadden | 8/15/2024 | 8/23/2024
@@ -53,7 +54,9 @@ Title | Author | Start Date | End Date
 **capitulate** - (v) to surrender under specific conditions; acquiesce  
 **caromed** - (n) a collision and then a reboun; a "combo" shot in billiards    
 **carrion** - (n) dead or decaying animal or flesh; worthless person  
-**castigate** - (v) to punish or rebuke severely; to emend; to correct  
+**castigate** - (v) to punish or rebuke severely; to emend; to correct
+**casuist** - (n) a person that is skilled in casuistry  
+**casultry** - (n) subtle reasoning that is meant to rationalize or mislead; determining right and wrong by analyzing cases that illustrate general ethical rules  
 **catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
 **catharsis** - (n) purification or purgation of emotions primarily through art  
 **cathartic** - (adj) inducing catharsis; purgative  
@@ -63,6 +66,7 @@ Title | Author | Start Date | End Date
 **clandestine** - (adj) kept or done in secret, often to conceal an illicit of improper purpose  
 **clinker** - (n) partially vitrified brick or a collection of bricks fused together; hard burnded brick  
 **clod** - (n) a person who is foolish  
+**cloister** - (n) a covered walk that runs along the walls of buildings that face a quadrangle; a place dedicated to religious seclusion; life in a monastery or covenant  
 **comely** - (adj) pleasing to look at; handsome; attactive  
 **compeer** - (n) a person of equal status or rank; a peer  
 **conflagaration** - (n) a large fire that is broad and affect many objects  
@@ -71,6 +75,7 @@ Title | Author | Start Date | End Date
 **convolution** - (n) a shape or form that is folded in curved or tortuous windings; one of the irregular ridges on the surface of the brain and especially of cerebrum of higher mammals; a complication of intricacy of form, design, or structure  
 **coquetry** - (n) dalliance; flirtation  
 **cornice** - (n) crown molding on a wall  
+**crag** - (n) steep mass of rock that projects upward or outward; neck, throat  
 **croon** - (v) hum, sing; roar, below  
 
 ## D
@@ -133,11 +138,13 @@ Title | Author | Start Date | End Date
 **incorrigible** - (adj) incapable of being corrected or reformed; difficult of impossible to control or manage  
 **inimical** - (adj) dangerous, harmful, adverse  
 **iniquity** - (n) a gross immorality or injustice; wickedness  
+**innocuous** - (adj) having no adverse effect; harmless; insipid  
 **insipid** - (adj) dull, lacking flavor; tasteless; vapid  
 **insolent** - (adj) rude, disrespectful; impertinent, impudent  
 **interminable** - (adj) existing without interruption or without end  
 **intimation** - (n) declaration or announcement; a hint or a suggestion  
 **intractable** - (adj) difficult to manage, deal with, or change to an acceptable condition; not easily relieved or cured; not easily manipulated or shaped  
+**invective** - (n) vituperation; an abusive expression or abusive language  
 **inviolable** - (adj) secure from violation; invincible; insusceptible to harm; holy, sacred  
 **involute** - (adj) complex; intricate  
 **irreverent** - (adj) critical of what is generally accepted or respected; satirical; disrespectful  
@@ -186,6 +193,8 @@ Title | Author | Start Date | End Date
 **pejorative** - (adj) disparaging; belittling  
 **perempt** - (v) to destroy or defeat  
 **perfidy** - (n) breack of faith; act of treachery; violation of allegiance  
+**perfunctory** - (adj) acting with indifference; performing tasks or duties routinely, with little interest  
+**peripatetic** - (adj) walking about; travel by foot  
 **pertinacious** - (adj) obstinate, obdurate  
 **phlegmatic** - (adj) having or related to phlegm; calm sluggish temperment, apathetic  
 **placate** - (n) to appease; to allay the anger of, especially by making concessions; to pacify  
