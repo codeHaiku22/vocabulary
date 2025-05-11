@@ -56,7 +56,7 @@ Title | Author | Start Date | End Date
 **carrion** - (n) dead or decaying animal or flesh; worthless person  
 **castigate** - (v) to punish or rebuke severely; to emend; to correct  
 **casuist** - (n) a person that is skilled in casuistry  
-**casultry** - (n) subtle reasoning that is meant to rationalize or mislead; determining right and wrong by analyzing cases that illustrate general ethical rules  
+**casuistry** - (n) subtle reasoning that is meant to rationalize or mislead; determining right and wrong by analyzing cases that illustrate general ethical rules  
 **catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
 **catharsis** - (n) purification or purgation of emotions primarily through art  
 **cathartic** - (adj) inducing catharsis; purgative  
