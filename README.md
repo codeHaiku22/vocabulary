@@ -54,7 +54,7 @@ Title | Author | Start Date | End Date
 **capitulate** - (v) to surrender under specific conditions; acquiesce  
 **caromed** - (n) a collision and then a reboun; a "combo" shot in billiards    
 **carrion** - (n) dead or decaying animal or flesh; worthless person  
-**castigate** - (v) to punish or rebuke severely; to emend; to correct
+**castigate** - (v) to punish or rebuke severely; to emend; to correct  
 **casuist** - (n) a person that is skilled in casuistry  
 **casultry** - (n) subtle reasoning that is meant to rationalize or mislead; determining right and wrong by analyzing cases that illustrate general ethical rules  
 **catatonia** - (n) neuropsychiatric syndrome of abnormal movements, immobility, strange behaviour, and withdrawal  
