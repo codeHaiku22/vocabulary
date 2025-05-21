@@ -106,6 +106,7 @@ Title | Author | Start Date | End Date
 **exculpate** - (t) exonerate; to clear of guilt or blame  
 **execrable** - (adj) bad, inferior; hateful  
 **extempore** - (adj) composed with little or no preparation; impromptu  
+**exultant** - (adj) extremely happy, joyous; triumphant  
 
 ## F
 **fatuity** - (n) something that is stupid, foolish; weakness of mind    
