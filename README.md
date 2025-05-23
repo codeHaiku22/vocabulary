@@ -157,6 +157,7 @@ Title | Author | Start Date | End Date
 
 ## L
 **laconic** - (adj) using few words; concise; brusque  
+**levanter** - (n) a strong easterly Meditrranean wind; native of Levant; one who departs from a camp suddenly   
 **levity** - (n) humor, merriment, or a lack of seriousness, especially when inappropriate  
 **limpid** - (adj) clear, free from haze or clouds; intelligible  
 **locution** - (n) a phrase or saying said by a particular person or people; style of speaking  
