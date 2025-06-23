@@ -206,6 +206,7 @@ Title | Author | Start Date | End Date
 **potentate** - (n) monarch, ruler  
 **precipitous** - (adj) haveing or resembling precipices, steep; rapid, hasty or abrupt  
 **precocious** - (adj) ripening or developing prematurely  
+**prognostication** - (n) foreshadowing or foretelling something in the future with current signs and predictions  
 **promulgate** - (v) to make known, annouce; advocate  
 **proselytize** - (v) to attempt to convert a person to another faith, doctrine, or idealogy  
 
@@ -226,6 +227,8 @@ Title | Author | Start Date | End Date
 
 ## S
 **saunter** - (v) walk at a leisure pace; stroll; loiter  
+**sacristy** - (n) room in a church where sacred items are kept; vestry  
+**scimitar** - (n) curved sword with origins from Persia, Asia  
 **scruple** - (n) an uneasy feeling that hinders action; unit of apothecary weight of about 1.3 grams; a small amount  
 **scrupulous** - (adj) painstaking, meticulous; having scruples, doubtful; hesitating to act for fear of offending  
 **semiotics** - (n) study of signs and symbols  
