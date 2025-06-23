@@ -7,12 +7,12 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
-[The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) | Paul Coelho | 5/5/2025
 
 #### Past Books
 
 Title | Author | Start Date | End Date
 --- | --- | --: | ---:
+[The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) | Paulo Coelho | 5/5/2025 | 6/21/2025
 [Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance?from_search=true&from_srp=true&qid=AkJ68GVAqN&rank=1) |Robert M. Pirsig | 10/7/2024 | 5/5/2025
 [The Wisdom of Insecurity](https://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity?ref=nav_sb_ss_1_20) | Alan Watts | ?/?/2024 | 10/5/2024
 [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness?from_search=true&from_srp=true&qid=G6Adlckfx3&rank=1) | Ursula K. Le Guin | 9/5/2024 | 9/28/2024
