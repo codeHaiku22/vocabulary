@@ -7,6 +7,7 @@ This is a growing list of words I have come across while reading books for which
 
 Title | Author | Start Date
 --- | --- | --:
+[Scars](https://www.goodreads.com/book/show/233883219-scars) | Noy Sengvixay | 6/23/2025
 
 #### Past Books
 
